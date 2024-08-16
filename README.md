@@ -9,6 +9,7 @@ Import Axios to this page
 
 Given the API
 <a href="https://jsonplaceholder.typicode.com/">https://jsonplaceholder.typicode.com/</a>
+<br />
 Get the comments (/comments) and log the API response
 
 ### JS Challenge 3
